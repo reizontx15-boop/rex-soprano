@@ -1,2 +1,2 @@
 # Emotion Detector
-This project is an AI-based web application that detects emotions in text using Watson NLP.
+This is a final project for the IBM AI Software Engineer course. It uses Watson NLP to detect emotions in text.
